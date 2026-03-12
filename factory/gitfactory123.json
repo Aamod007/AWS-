@@ -1,0 +1,9 @@
+{
+	"name": "gitfactory123",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "37dbcf77-13e3-4660-a626-2152ee33fc9f",
+		"tenantId": "349f6c7f-5b03-4138-b0a8-23179949831e"
+	}
+}
